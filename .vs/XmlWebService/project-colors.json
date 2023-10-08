@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7375899-8bc3-4e1a-bb20-3d53ed333853": {
+      "ProjectGuid": "b7375899-8bc3-4e1a-bb20-3d53ed333853",
+      "DisplayName": "XmlWebService",
+      "ColorIndex": 0
+    },
+    "7f2511de-ba80-4e34-ad92-70ae24bfe491": {
+      "ProjectGuid": "7f2511de-ba80-4e34-ad92-70ae24bfe491",
+      "DisplayName": "ServiceConsumerDemo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
